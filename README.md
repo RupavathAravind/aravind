@@ -1,10 +1,10 @@
-# 🌊 FloodGuard Kerala - Smart Flood Detection & Alert System
+# FloodGuard Kerala - Smart Flood Detection & Alert System
 
 FloodGuard Kerala is a simple and interactive web application that simulates real-time flood alerts based on water level sensor input. It is designed to help residents of Kerala monitor potential flood threats in their locality and guide them to the nearest safe shelters.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - *User Login*: Login with a phone number to access the system.
 - *Location Selector*: Choose District, Mandal, and Village to simulate alerts.
@@ -16,7 +16,7 @@ FloodGuard Kerala is a simple and interactive web application that simulates rea
 - *Mobile Friendly*: Responsive design for easy access on mobile devices.
 
 ---
-## 🧠 How It Works
+##  How It Works
 
 - The user selects their *district, **mandal, and **village*.
 - A *water level simulator* (slider) mimics input from a water level sensor.
@@ -28,7 +28,7 @@ FloodGuard Kerala is a simple and interactive web application that simulates rea
 
 ---
 
-## ⚙ How to Run This Project in VS Code
+##  How to Run This Project in VS Code
 
 1. *Clone or Download the Project*  
    Download the files or clone the repository into a folder on your computer.
@@ -64,7 +64,7 @@ FloodGuard Kerala is a simple and interactive web application that simulates rea
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - This is a *simulation tool* and does not use real sensor data.
 - Audio files (alert.mp3 and danger.mp3) must be present in the same folder.
@@ -72,12 +72,12 @@ FloodGuard Kerala is a simple and interactive web application that simulates rea
 
 ---
 
-## 📄 License
+##  License
 
 This project is for educational and awareness purposes. All rights reserved © 2025 FloodGuard Kerala.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 Special thanks to the people and communities working on disaster awareness and early warning systems in Kerala.
