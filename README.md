@@ -28,7 +28,7 @@ FloodGuard Kerala is a simple and interactive web application that simulates rea
 
 ---
 
-##  How to Run This Project in VS Code
+# How to Run This Project in VS Code
 
 1. *Clone or Download the Project*  
    Download the files or clone the repository into a folder on your computer.
@@ -54,7 +54,7 @@ FloodGuard Kerala is a simple and interactive web application that simulates rea
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - *HTML5* – Page structure  
 - *CSS3* – Styling and layout  
